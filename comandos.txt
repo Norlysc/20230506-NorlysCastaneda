@@ -1,0 +1,252 @@
+    1  pwd
+    2  mkdir informatica
+    3  cd informatica
+    4  git --version
+    5  git config --global user.name "norlys"
+    6  git config --global user.email "nastaneda30@gmail.com"
+    7  pwd
+    8  mkdir mi-primer-repositorio
+    9  cd mi-primer-repositorio/
+   10  touch index.html
+   11  echo hola mundo > "index.html"
+   12  git init
+   13  git status
+   14  git add .
+   15  git commit -m "mi primer commit"
+   16  git status
+   17  git commit -m "mi primer commit"
+   18  git config user.name
+   19  git confign user.email
+   20  git config --global user.name "norlys1"
+   21  git config --global user.email "ncastaneda30@gmail.com"
+   22  git config user.name
+   23  git config user.email
+   24  git add
+   25  git status
+   26  git commit -m "mi primer commit" 
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "modificacion index.html"
+   31  git log
+   32  git checkout b72f8542ff61998c312c6a66e0df92b2f76d59d0
+   33  git log
+   34  git branch
+   35  git switch master
+   36  git add .
+   37  git commit -m "chao mundo" 
+   38  git log
+   39  git swictch -c "rama2"
+   40  git log
+   41  git branch
+   42  git switch -c "rama" 
+   43  git branch
+   44  gir switch master
+   45  log
+   46  git switch master
+   47  git remote add origin https://github.com/Norlysc/Mi-repositorio. git
+   48  git config --global user.name "Norlysc"
+   49  config --global user.email "castaneda30@hotmail.com"
+   50  git config --global user.email "castaneda30@hotmail.com"
+   51  git remote add origin https://github.com/Norlysc/Mi-repositorio. git
+   52  pwd
+   53  cd informatica
+   54  mkdir github
+   55  cd github
+   56  git config --global user.name "norlys3"
+   57  git config --global user.email "castaneda30@hotmail.com"
+   58  touch index.html
+   59  git unit
+   60  git init
+   61  git commit -m "mi-repositorio"
+   62  add .
+   63  git status
+   64  git add .
+   65  git status
+   66  git log
+   67  git status
+   68  git remote add origin https://github.com/Norlysc/Mi-repositorio. git
+   69  git init
+   70  git config user.name "Norlysc"
+   71  git config user.email "castaneda30@gmail.com"
+   72  pwd
+   73  clear
+   74  mkdir clasegit
+   75  cd clasegit/
+   76  git init
+   77  git config user.name "Norlysc"
+   78  git config user.email "castaneda30@gmail.com"
+   79  git touch app.jps
+   80  git tpuch app.js
+   81  clear
+   82  git status
+   83  git add app.js
+   84  git status
+   85  git commit -m "mis archivos"
+   86  git status
+   87  git add .
+   88  git status
+   89  clear
+   90  git status
+   91  git status
+   92  git add .
+   93  git commit -m "nuevo archivo"
+   94  git log
+   95  clear
+   96  pwd
+   97  cs ..
+   98  cd ..
+   99  pwd
+  100  clear
+  101  mkdir mercadoAbierto
+  102  cd mercadoAbierto/
+  103  git init
+  104  git config user.name "Norlysc"
+  105  git config user.email "castaneda30@hotmail.com"
+  106  git status
+  107  git add productos.js 
+  108  git status
+  109  git commit -m "mi primer comit"
+  110  git status
+  111  git push origin master
+  112  git pusg origin master https://github.com/Norlysc/frontNorlys.git
+  113  git push origin master
+  114  ~git push origin master https://github.com/Norlysc/frontNorlys.git
+  115  git push origin master https://github.com/Norlysc/frontNorlys.git
+  116  git status
+  117  git remote add
+  118  git push origin master
+  119  git remote add https://github.com/Norlysc/frontNorlys.git
+  120  git remote add origin https://github.com/Norlysc/frontNorlys.git
+  121  git push origin master
+  122  git push origin master
+  123  git push origin master
+  124  git status
+  125  git cd mercadoAbierto/
+  126  pwd
+  127  pwd
+  128  cd mercadoAbierto/
+  129  git init
+  130  git config --global user.name "Norlysc"
+  131  git config --global user.email "castaneda30@gmail.com"
+  132  git status
+  133  git status
+  134  git add archivos.js 
+  135  git status
+  136  git commit -m "se agrego un nuevo archivo"
+  137  ls
+  138  git remote add origin https://github.com/Norlysc/frontNorlys.git
+  139  git remove -v
+  140  git remote -v
+  141  git origin master
+  142  git push origin master
+  143  git status
+  144  pwd
+  145  cd mercadoAbierto/
+  146  git status
+  147  git remote add origin https://github.com/Norlysc/pruebagit.git
+  148  git remote -v
+  149  clear
+  150  ls
+  151  cd ..
+  152  ls
+  153  mkdir MercadoNuevo
+  154  ls
+  155  cd MercadoNuevo/
+  156  git init -b main
+  157  git remote -v
+  158  git remote add origin https://github.com/Norlysc/MercadoNuevo.git
+  159  git remote -v
+  160  git status
+  161  git add .
+  162  git status
+  163  git commit -m "nuevo archivo"
+  164  git push origin main
+  165  asd
+  166  asd
+  167  d
+  168  asd
+  169  asd
+  170  asd
+  171  git config --global user.name "Norlysc"
+  172  git config --global user.email "castaneda30@hotmail.com"
+  173  git status
+  174  git push origin main
+  175  git push origin master
+  176  git push
+  177  git push origin main
+  178  git push origin main
+  179  git push -u origin main
+  180  git status
+  181  git log
+  182  git pull origin main
+  183  git clone https://github.com/Norlysc/MercadoNuevo.git
+  184  ls
+  185  git remote -v
+  186  cd MercadoNuevo/
+  187  touch app.js
+  188  git status
+  189  git add app.js 
+  190  git status
+  191  git commit -m "mi primer commit"
+  192  git status
+  193  git push origin master
+  194  git push u- origin main 
+  195  git push origin main
+  196  clear
+  197  ppwd
+  198  pwd
+  199  cd ..
+  200  cd ..
+  201  pwd
+  202  cd Mochila_Castaneda_Norlys/
+  203  git init
+  204  git config user.name "Norlysc"
+  205  git config user.email "castaneda30@gmai.com"
+  206  git remote add origin https://github.com/Norlysc/Mochila_Castaneda_Norlys.git 
+  207  git add .
+  208  git status
+  209  git commit -m "Mi mochila camada 3"
+  210  git push origin master
+  211  git status
+  212  git pull origin master
+  213  ls
+  214  cd ProyectoClonado/
+  215  ls
+  216  pwd
+  217  cd pets
+  218  touch css/archivo.txt
+  219  clean
+  220  clear
+  221  cd
+  222  git init
+  223  git remote add origin https://github.com/Norlysc/20230506-NorlysCastaneda.git
+  224  mkdir 20230506-NorlysCastaneda
+  225  cd 20230506-NorlysCastaneda
+  226  git init
+  227  git remote add origin https://github.com/Norlysc/20230506-NorlysCastaneda.git
+  228  touch comandos.txt
+  229  touch main.js
+  230  touch index.html
+  231  git add .
+  232  git commit -m "01 Nolrys Castañeda"
+  233  git branch main
+  234  git checkout main
+  235  git merge master
+  236  git log
+  237  git branch feature
+  238  git checkout feature
+  239  mkdir Hardware Software SeguridadInformatica
+  240  cd Hardware
+  241  touch resumen.txt
+  242  cd ..
+  243  cd Software
+  244  touch resumen.txt
+  245  cd ..
+  246  cd SeguridadInformatica
+  247  touch resumen.txt
+  248  git checkout main
+  249  cd ..
+  250  mv main.js resumenHardware.txt
+  251  mv index.html resumenSoftware.txt
+  252  history
